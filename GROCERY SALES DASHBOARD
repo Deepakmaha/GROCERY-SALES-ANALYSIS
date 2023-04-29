@@ -1,0 +1,9 @@
+# GROCERY-SALES-ANALYSIS
+The primary goals of grocery sales analyst is to identify the trends and pattern in sales dataset such as (most selling & profitable product ,forecasting sales , evaluating promotion campaign  & providing appropriate insight for strategic decision-making & many more) .
+Step followed for Data scrubbing
+	Gather & clean the dataset using power query editor such as (Merge 7 table one by one , removed unwanted column, properly reorder column & rename column )
+	Then find out month name & weekday/weekend from date column.
+Step followed for Data visualization 
+	Build the appropriate visualization such as (category by sales, weekday/weekend of total sales ,most valuable customer & many more)
+	Skilled used  for visualization ; Power BI (Decomposition tree, clustered bar & column chart & many more,Dax used --calculate & aggregate function etc , Filtered used such as -Drillthrough ,sync slicers & many more
+
